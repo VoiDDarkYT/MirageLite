@@ -1,9 +1,0 @@
-{
-  "capes": {
-    "black_cat": "https://raw.githubusercontent.com/VoiDDarkYT/MirageLite/main/cape/black_cat.png"
-  },
-  "players": {
-    "VoiDDarkYT": ["black_cat"],
-    "SomeOtherNick": ["black_cat"]
-  }
-}
